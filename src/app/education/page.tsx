@@ -22,7 +22,7 @@ const educationPage = () => {
             delay={0.35}
             className="w-1/4 font-rubik flex items-center justify-evenly text-lg max-sm:text-base "
           >
-            July 2023 - 2026
+            June 2006 - 2009
           </FramerWrapper>
           <FramerWrapper
             y={0}
@@ -31,15 +31,13 @@ const educationPage = () => {
             className="relative w-3/4 border-l-4 border-l-[#3c3c3c] p-4 gap-3 education_point "
           >
             <div className="text-2xl font-rubik max-sm:text-xl">
-              Bachelor of Computer Application, <br /> Ranchi University
-              Jharkhand
+              Bachelor of Science in Agriculture, <br /> University of Southern Mindanao, Philippines
             </div>
             <p className=" font-poppins text-base w-full text-primary  max-sm:text-xs">
-              I am currently Studying Bachelor of Computer Application form
-              Doranda College Ranchi a Goverment College of Ranchi. The program
-              has provided me with a well-rounded education, covering both
-              theoretical foundations and practical applications of computer
-              science.
+              My undergaduate degree is far from what I am pursuing right now.
+              I fall in love with technology on how it can help improve the lives of many.
+              My pursuit on web dev journey has provided me with a well-rounded information,
+              covering both theoretical foundations and practical applications.
             </p>
           </FramerWrapper>
         </div>
