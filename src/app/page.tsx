@@ -3,15 +3,14 @@
 import SocialLinks from "@/components/SocialLinks";
 import HeroTexts from "@/components/HeroTexts";
 import HeroImage from "@/components/HeroImage";
-import GithubBtn from "@/components/animation/GithubBtn";
 import DownLoadResumeBtn from "@/components/DownLoadResumeBtn";
 import FramerWrapper from "@/components/animation/FramerWrapper";
 
 export const siteConfig = {
   name: "Harley Carbonell",
-  description: "I am a Passionate Software Developer",
-  ogImage: "https://mdTaquiImam.vercel.app/og-image.png",
-  url: "https://mdTaquiImam.vercel.app",
+  description: "I am a Self-taught Web Developer",
+  ogImage: "#",
+  url: "#",
 }
 export default function Home() {
   return (
@@ -30,9 +29,6 @@ export default function Home() {
       {/* IMAGE  */}
         <HeroImage />
       </FramerWrapper>
-     
-      {/* GITHUB BUTTON  */}
-      <GithubBtn/>
       </>
   );
 }

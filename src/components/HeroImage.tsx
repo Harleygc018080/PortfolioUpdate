@@ -1,4 +1,4 @@
-import logo from "../../public/portfolioLogo.png";
+import logo from "../../public/Profile Image.png";
 import Image from "next/image"
 
 const HeroImage = ()  => {
