@@ -12,7 +12,7 @@ const projectsPage = () => {
       description:
         `An open source chatbot template built with Next.js and the AI SDK by Vercel. It uses the streamText function in the server and the useChat hook on the client to create a seamless chat experience.`,
       tags: ["Vercel SDK", "Open AI", "Nextjs"],
-      link: "#",
+      link: "https://it-ninja.vercel.app/",
     },
     {
       title: "GiftGenie- App that will help you find the perfect gift",
