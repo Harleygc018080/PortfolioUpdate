@@ -8,10 +8,10 @@ const projectsPage = () => {
   // PROJECTS DATA
   const Projects = [
     {
-      title: "Linkify - All-in-one link in one page",
+      title: "IT Ninja - An AI Chatbot using vercel app",
       description:
-        `This is where I put my discription.`,
-      tags: ["Supabase", "Shadcn Ui", "Nextjs"],
+        `An open source chatbot template built with Next.js and the AI SDK by Vercel. It uses the streamText function in the server and the useChat hook on the client to create a seamless chat experience.`,
+      tags: ["Vercel SDK", "Open AI", "Nextjs"],
       link: "#",
     },
     {
