@@ -15,10 +15,10 @@ const projectsPage = () => {
       link: "https://it-ninja.vercel.app/",
     },
     {
-      title: "GiftGenie- App that will help you find the perfect gift",
+      title: "Event Booking System - App that will help you book and event",
       description:
         "This is where I put my discription. ",
-      tags: ["Nextjs", "Typescript", "Shadcn Ui"],
+      tags: ["Nextjs", "Typescript", "Sonner"],
       link: "#",
     },
     {
@@ -29,18 +29,18 @@ const projectsPage = () => {
       link: "#",
     },
     {
-      title: "project soon- summary",
+      title: "Fitness Gym Landing Page - A Jiujitsu Promotional Website",
       description:
-        "This is where I put my discription. ",
-      tags: ["Nextjs"],
-      link: "#",
+        "A landing page for a local Jiujitsu gym. ",
+      tags: ["html" , "tailwindcss"],
+      link: "https://fitness-gym-ruddy.vercel.app/",
     },
     {
-      title: "project soon- summary",
+      title: "Lolahh Coffee - Your Neighborhood Coffee",
       description:
-        "This is where I put my discription. ",
-      tags: ["Nextjs"],
-      link: "#",
+        "A simple coffee shop website I made for my family's micro business. ",
+      tags: ["Javascript" ,"html" , "tailwindcss"],
+      link: "https://lolahh-coffee.vercel.app/",
     },
    
   ];
@@ -56,11 +56,9 @@ const projectsPage = () => {
         <Heading>My Projects</Heading>
         <FramerWrapper y={0} x={200}>
           <p className=" font-poppins text-lg w-full text-primary max-sm:text-base">
-            I love to Build Cool Projects. Here, you&#x27;ll find a curated
-            collection of my creative endeavors and technical projects. Each
-            piece represents a journey of innovation, problem-solving, and
-            continuous learning. Feel free to explore this showcase of my
-            passion and expertise in action.
+            I love to Build Cool Projects. Here, you&#x27; Each
+            piece represents a journey of passion, problem-solving, and
+            continuous learning.
           </p>
         </FramerWrapper>
       </div>
