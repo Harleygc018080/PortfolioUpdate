@@ -5,16 +5,18 @@ import React from 'react'
 import { buttonVariants } from './ui/button'
 import HackerBtn from './animation/HackerBtn'
 
-const DownLoadResumeBtn = () => {
+function DownLoadResumeBtn() {
   return (
-    <div className="mt-4">
-      <Link href="/Updated Resume Carbonell.pdf " download>
-        <a className="bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-600 transition duration-300">
-          Download Resume
-        </a>
-      </Link>
-    </div>
-  );
-};
+    <div className="h-fit w-full mt-2 py-2 px-4">
+      <Link href="/resume.pdf" download="Harley_Carbonell_Resume.pdf">
+      <a className="bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-600 transition duration-300">
+    Download Resume
+      </a>
+</Link>
+  
+    <HackerBtn label='Download Resume' />
+  </div>
+  )
+}
 
-export default DownLoadResumeBtn;
+export default DownLoadResumeBtn
