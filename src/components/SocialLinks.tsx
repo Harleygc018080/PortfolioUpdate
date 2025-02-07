@@ -9,7 +9,6 @@ const SocialLinks = () => {
     { name: "Facebook", link: "https://www.facebook.com/NeverMindHarley", icon: <Facebook /> },
     { name: "Twitter", link: "https://x.com/NeverMindHarley", icon: <Twitter /> },
     { name: "Linkedin", link: "https://www.linkedin.com/in/harleycarbonell/", icon: <Linkedin /> },
-    { name: "External", link: "#", icon: <ExternalLink /> },
   ];
   return (
     <>
