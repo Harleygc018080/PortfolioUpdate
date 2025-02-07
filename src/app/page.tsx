@@ -10,7 +10,7 @@ export const siteConfig = {
   name: "Harley Carbonell",
   description: "I am a Self-taught Web Developer",
   ogImage: "#",
-  url: "#",
+  url: "https://portfolio-hc-lilac.vercel.app/",
 }
 export default function Home() {
   return (
