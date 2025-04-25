@@ -25,21 +25,21 @@ const projectsPage = () => {
       title: "Plaisirs",
       description:
         "Pastry Shop Website. ",
-      tags: ["html" , "javascript"],
+      tags: ["html" ,"tailwindcss", "javascript"],
       link: "https://plaisirs.vercel.app/",
     },
     {
       title: "Fitness Gym Landing Page - A Jiujitsu Promotional Website",
       description:
         "A landing page for a local Jiujitsu gym. ",
-      tags: ["html" , "tailwindcss"],
+      tags: ["html" , "tailwindcss" , "Javascript"],
       link: "https://fitness-gym-ruddy.vercel.app/",
     },
     {
       title: "Lolahh Coffee - Your Neighborhood Coffee",
       description:
         "A simple coffee shop website I made for my family's micro business. ",
-      tags: ["Javascript" ,"html" , "tailwindcss"],
+      tags: [ "html" , "tailwindcss" , "Javascript"],
       link: "https://lolahh-coffee.vercel.app/",
     },
    
