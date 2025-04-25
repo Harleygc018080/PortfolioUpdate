@@ -15,7 +15,7 @@ const projectsPage = () => {
       link: "https://it-ninja.vercel.app/",
     },
     {
-      title: "Event Booking System - App that will help you book and event",
+      title: "Event Booking System - App that will help you book an event",
       description:
         "This is where I put my discription. ",
       tags: ["Nextjs", "Typescript", "Sonner"],
@@ -25,7 +25,7 @@ const projectsPage = () => {
       title: "Plaisirs - Pastry Shop Website",
       description:
         "Pastry Shop Website I created for my friend using html with order mgt. functionality. ",
-      tags: ["html" ,"tailwindcss", "javascript"],
+      tags: ["html" ,"tailwindcss", "Javascript"],
       link: "https://plaisirs.vercel.app/",
     },
     {
