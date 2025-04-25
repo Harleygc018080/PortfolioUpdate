@@ -22,9 +22,9 @@ const projectsPage = () => {
       link: "#",
     },
     {
-      title: "Plaisirs",
+      title: "Plaisirs - Pastry Shop Website",
       description:
-        "Pastry Shop Website. ",
+        "Pastry Shop Website I created for my friend using html with order mgt. functionality. ",
       tags: ["html" ,"tailwindcss", "javascript"],
       link: "https://plaisirs.vercel.app/",
     },
@@ -38,7 +38,7 @@ const projectsPage = () => {
     {
       title: "Lolahh Coffee - Your Neighborhood Coffee",
       description:
-        "A simple coffee shop website I made for my family's micro business. ",
+        "A simple coffee shop website I created for my family's micro business. ",
       tags: [ "html" , "tailwindcss" , "Javascript"],
       link: "https://lolahh-coffee.vercel.app/",
     },
