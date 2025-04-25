@@ -22,11 +22,11 @@ const projectsPage = () => {
       link: "#",
     },
     {
-      title: "project soon- summary",
+      title: "Plaisirs",
       description:
-        "This is where I put my discription. ",
-      tags: ["Nextjs"],
-      link: "#",
+        "Pastry Shop Website. ",
+      tags: ["html" , "javascript"],
+      link: "https://plaisirs.vercel.app/",
     },
     {
       title: "Fitness Gym Landing Page - A Jiujitsu Promotional Website",
