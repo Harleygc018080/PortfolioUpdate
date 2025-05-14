@@ -56,8 +56,8 @@ const projectsPage = () => {
         <Heading>My Projects</Heading>
         <FramerWrapper y={0} x={200}>
           <p className=" font-poppins text-lg w-full text-primary max-sm:text-base">
-            I love to Build Cool Projects. Here, you&#x27; Each
-            piece represents a journey of passion, problem-solving, and
+            I love to Build Cool Projects. Each
+            project represents a journey of passion, problem-solving, and
             continuous learning.
           </p>
         </FramerWrapper>
